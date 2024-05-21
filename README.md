@@ -22,8 +22,8 @@ This Adventure Game is an interactive text-based game built using TypeScript, In
 - Inquirer
 - Node.js
 
+Special thanks to [Inquirer](https://www.npmjs.com/package/inquirer) for providing an interactive CLI experience.
+
 To run the Adventure Game using npx, use the following command:
 ```bash
 npx hraza9-adventure-game
-
-Special thanks to [Inquirer](https://www.npmjs.com/package/inquirer) for providing an interactive CLI experience.
