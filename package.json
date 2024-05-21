@@ -1,0 +1,29 @@
+{
+  "name": "hraza9-adventure-game",
+  "version": "1.5.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.12",
+    "chalk": "^5.3.0",
+    "figlet": "^1.7.0",
+    "inquirer": "^9.2.22",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/figlet": "^1.5.8",
+    "@types/inquirer": "^9.0.7"
+  }
+}
